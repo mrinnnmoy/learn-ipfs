@@ -22,5 +22,15 @@
     <li>Cannot go down.</li>
 </ul>
 
+<p>IPFS pinning.</p>
+<ul>
+    <li>
+        <p>IPFS pinning refers to the process of specifying data to be retained and persist on one or more IPFS nodes. Pinning assures that data is accessible indefinitely, and will not be removed during the IPFS garbage collection process.</p>
+    </li>
+    <li>
+        <a href="https://docs.ipfs.tech/how-to/pin-files/">Learn more.</a>
+    </li>
+</ul>
+
 <p>Download IPFS.</p>
 <a href="https://ipfs.tech/#install" target="_blank">Click here!!!</a>
